@@ -1,3 +1,3 @@
-git learning
+git learning,fun!
 
-git success
+git success,haha~
